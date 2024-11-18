@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello there! 
 
-<!--
-**Btere/Btere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Abu!. Thank You for taking the time to view my GitHub Profile 😄 
+Profile views Github </br>
 
-Here are some ideas to get you started:
+About Me 📚📚
+🔭 I have a double Msc degree in Financial Mathematics and Mathematical Engineering at university of Silesia Katowice, and University of L'Aquila, Italy 😅) </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I am a software engineer sharing my journey in tech </br>
+
+🌱 I’m currently applying Mathematics, Computer vision and Machine Learning Operations (MLOps) to build project and develop my skill set in this industry </br>.
+
+💬 Talk to me about Maths, Python, Machine learning, MLOps, Computer Vision and AI Technical writing
