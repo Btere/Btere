@@ -8,7 +8,7 @@ About Me 📚📚
 
 🔭 I am a software engineer sharing my journey in tech </br>
 
-🔭 I speak at events on everything AI, ML, edge computing</br>
+🔭 I speak at events on everything AI, ML, edge computing DSSML among others. </br>
 
 🌱 I’m currently applying Mathematics, Computer vision and Machine Learning Operations (MLOps) to build project and develop my skill set in this industry </br>.
 
