@@ -6,7 +6,7 @@ Profile views Github </br>
 About Me 📚📚
 🔭 I have a double Msc degree in Financial Mathematics and Mathematical Engineering at university of Silesia Katowice, and University of L'Aquila, Italy 😅) </br>
 
-🔭 I am a software engineer sharing my journey in tech </br>
+🔭 I am a AI software engineer sharing my journey in tech </br>
 
 🔭 I speak at events on everything AI, ML, edge computing like Data science and ML summit Warsaw,  Perspective Women in tech summit among others. </br>
 
