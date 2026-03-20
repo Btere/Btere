@@ -12,4 +12,4 @@ About Me 📚📚
 
 🌱 I’m currently applying Mathematics, Computer vision and Machine Learning Operations (MLOps) to build project and develop my skill set in this industry </br>.
 
-💬 Let's talk about Python, Machine learning, MLOp, Software product and its architecture, Computer Vision,, GenAI and AI Technical writing
+💬 Let's talk about Python, Machine learning, MLOp, Software product and its architecture, Computer Vision, and AI Technical writing
